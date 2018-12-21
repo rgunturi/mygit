@@ -7,4 +7,11 @@ mofied in hotfix branch
 
 this is now modified in iss53 as well
 
+<<<<<<< HEAD
 second phase, added this line in hotfix branch
+=======
+
+
+now adding another line in iss53 branch
+phase2, added this line in iss53 before merge to master
+>>>>>>> iss53
